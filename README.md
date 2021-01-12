@@ -1,2 +1,3 @@
-# survival-test
+# Survival Test
 This is the repo for SURVIVAL TEST, a game that- isn't released yet... 
+<p>Well, anyways, this game is unrelised and indev. you can go to https://scratch.mit.edu/discuss/topic/472178/?page=1 for (almost) daily updates.
